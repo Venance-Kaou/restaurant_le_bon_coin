@@ -540,11 +540,11 @@ section{
                 margin:50px  auto 0px auto ;
         }
 
-        .bannière .contenu h2{
-               
+        .bannière .contenu h2{       
+        
                 font-size: 1.3em;
                 margin-bottom: 6px;
-                margin-top: 30px;
+                margin-top: 90px;
                 color: #fff;
                 text-transform:uppercase;
                 font-weight: 900;
@@ -554,7 +554,7 @@ section{
         .contenu p:nth-child(2){
         
                 padding: 0px 20px;
-                text-align: justify;
+                text-align: start;
                 color: #fff;
                 font-size: 18px;
                 font-weight: 500;
