@@ -527,7 +527,7 @@ section{
 
         .bannière {
                
-                min-height: 80vh;
+                min-height: 70vh;
         }
 
         .bannière .contenu{
@@ -605,7 +605,7 @@ section{
         }
         
         .apropos img{
-                height: 400px;
+                height: 300px;
                 width: 100%;
                 margin: 15px auto;
         }
@@ -642,7 +642,7 @@ section{
 
         .menu .contenu .box{
                 
-                width: 350px;
+                width: 300px;
                 margin: 10px 5px;
                 border: 8px solid#fff;
                 box-shadow: 20px 15px 35px rgba(0, 0, 0, 0.5);
@@ -650,7 +650,7 @@ section{
 
         .menu .contenu .box:hover{
 
-                width: 360px;
+                width: 310px;
                
         }
 
@@ -686,19 +686,20 @@ section{
         .expert .contenu{
 
                 display: flex;
+
                 
         }    
 
         .expert .contenu .box{
 
                 margin: 10px 6px;
-                width: 330px;
+                width: 300px;
         }
 
         .expert .contenu .box .imbox{
         
-                width: 100%;
-                height: 330px;
+                width: 300px;
+                height: auto;
               
         }
         
@@ -735,15 +736,15 @@ section{
 
         .temoignage .contenu .box{
                 
-                width: 340px;
+                width: 300px;
                 margin: 15px auto;
                 padding: 10px;
         }
 
         .temoignage .contenu .box .imbox{
 
-                width: 130px;
-                height: 130px;
+                width: 110px;
+                height: 110px;
                 border-radius: 100%;
         }
 
@@ -773,7 +774,7 @@ section{
 
                 border-radius: 20px;
                 padding: 40px 20px;
-                width: 340px;
+                width: 300px;
                 box-shadow: 5px 15px 50px rgba(0, 0, 0, 0.5);
                 max-width:100%;
                 margin: 50px auto;
@@ -789,7 +790,7 @@ section{
         .contactform .inputboite {
 
                 margin: 10px auto;
-                width: 300px;
+                width: 260px;
         
         }
 
@@ -831,7 +832,7 @@ section{
 
 /* Responsive  pour toutes les taille d'écrans Comprises entre 600px et  1270px*/
 
-@media screen and (min-width : 631px) and (max-width : 1300px) {
+@media screen and (min-width : 631px) and (max-width : 1270px) {
         
         .navbar a{
 
@@ -942,12 +943,12 @@ section{
 
         .menu .contenu .box{
 
-                width: 250px;
+                width: 240px;
                 height: auto;      
         }
 
         .menu .contenu .box:hover{
-                width: 260px;
+                width: 250px;
 
         }
         
@@ -984,14 +985,14 @@ section{
 
         .expert .contenu .box{
 
-                width: 250px;
+                width: 240px;
                 height: auto;
         }
 
         .expert .contenu .box .imbox img{
 
                 width: 100%;
-                height: 250px;    
+                height: 240px;    
         
         }
 
@@ -1043,7 +1044,7 @@ section{
 
                 border-radius: 20px;
                 padding: 40px 20px;
-                width: 500px;
+                width: 400px;
                 box-shadow: 5px 15px 50px rgba(0, 0, 0, 0.5);
                 max-width:100%;
                 margin: 50px auto;
@@ -1054,13 +1055,6 @@ section{
         
                 text-align: center;
                 color: #2a4963;
-        }
-
-        .contactform .inputboite {
-
-                margin: 10px auto;
-                width: 350px;
-        
         }
 
         .contactform .inputboite input[type="submit"]{
