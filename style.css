@@ -937,18 +937,18 @@ section{
 
         .menu .contenu{
 
-                justify-content: space-around;
-                margin-top: 0px;
+                /* justify-content: center; */
+                /* margin-top: 0px; */
         }       
 
         .menu .contenu .box{
 
-                width: 240px;
+                width: 300px;
                 height: auto;      
         }
 
         .menu .contenu .box:hover{
-                width: 250px;
+                width: 310px;
 
         }
         
@@ -956,7 +956,7 @@ section{
         .menu .contenu .box .imbox img{
               
                 width: 100%;
-                height: 190px;
+                height: 200px;
                
         }
         
@@ -978,14 +978,14 @@ section{
 
         .expert .contenu{
                 
-                display: flex;
-                justify-content:space-around;
+                /* display: flex; */
+                /* justify-content:space-around; */
                 
         }     
 
         .expert .contenu .box{
 
-                width: 240px;
+                width: 300px;
                 height: auto;
         }
 
