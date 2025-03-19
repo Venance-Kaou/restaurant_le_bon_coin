@@ -241,7 +241,7 @@ section{
 
 .menu .contenu .box{
 
-        width: 280px;
+        width: 380px;
         height: auto;
         margin: 10px;
         border: 8px solid#fff;
@@ -250,7 +250,7 @@ section{
 
 .menu .contenu .box:hover{
 
-        width: 290px;
+        width: 390px;
         transition: 0.8s;
 }
 
@@ -297,7 +297,7 @@ section{
 
 .expert .contenu .box{
 
-        width: 280px;
+        width: 380px;
         margin: 10px;
 }
 
@@ -314,7 +314,7 @@ section{
         top: 0px;
         left: 0px;
         width: 100%;
-        height: 280px;
+        height: 380px;
         object-fit: cover;
 }
 
@@ -832,7 +832,7 @@ section{
 
 /* Responsive  pour toutes les taille d'écrans Comprises entre 600px et  1270px*/
 
-@media screen and (min-width : 631px) and (max-width : 1270px) {
+@media screen and (min-width : 631px) and (max-width : 1380px) {
         
         .navbar a{
 
