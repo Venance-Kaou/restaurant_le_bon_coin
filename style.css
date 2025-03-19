@@ -241,7 +241,7 @@ section{
 
 .menu .contenu .box{
 
-        width: 320px;
+        width: 300px;
         height: auto;
         margin: 10px;
         border: 8px solid#fff;
@@ -250,7 +250,7 @@ section{
 
 .menu .contenu .box:hover{
 
-        width: 330px;
+        width: 310px;
         transition: 0.8s;
 }
 
@@ -297,7 +297,7 @@ section{
 
 .expert .contenu .box{
 
-        width: 320px;
+        width: 300px;
         margin: 10px;
 }
 
