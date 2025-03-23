@@ -933,14 +933,6 @@ section{
                 text-align: justify;
         }
 
-
-
-        .menu .contenu{
-
-                /* justify-content: center; */
-                /* margin-top: 0px; */
-        }       
-
         .menu .contenu .box{
 
                 width: 300px;
@@ -975,14 +967,7 @@ section{
                 margin-top: 0px;
                 text-align: center;     
         }
-
-        .expert .contenu{
-                
-                /* display: flex; */
-                /* justify-content:space-around; */
-                
-        }     
-
+        
         .expert .contenu .box{
 
                 width: 300px;
