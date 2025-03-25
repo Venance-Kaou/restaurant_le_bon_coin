@@ -20,6 +20,14 @@ p{
         color: #111;
 }
 
+
+html {
+     
+        scroll-padding-top: 80px ;  /* Pour que le titre reste visible après un scroll*/
+        scroll-behavior: smooth; /* Pour une transition fluide lors du défilement*/
+   
+   }
+
 header{
         background: #2b2928;
         position: fixed;
@@ -642,7 +650,7 @@ section{
 
         .menu .contenu .box{
                 
-                width: 300px;
+                width: 340px;
                 margin: 10px 5px;
                 border: 8px solid#fff;
                 box-shadow: 20px 15px 35px rgba(0, 0, 0, 0.5);
